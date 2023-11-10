@@ -1,0 +1,26 @@
+{
+  "name": "Sally Townsend",
+  "age": 45,
+  "address": {
+    "street": "Fojaw Manor",
+    "city": "Ewzase",
+    "state": "HI",
+    "zip": "45465"
+  },
+  "contact": {
+    "phone": "(682) 472-9960",
+    "servicePhone": "800148557"
+  },
+  "birthday": "1985-06-02T21:50:09.422Z",
+  "ip": "58.85.73.140",
+  "foo": "bar",
+  "profile": {
+    "about": "Sifemwu rurwege ces la tuc dat eziwujoka ziz nip ogmip fubkif vo subsa wijudsaj. Kikesdip purzab cedazoni top faujelo birso utuboso jelsium korif wu fuwev rihcafkog rosan zebrotkup ramalo avten rafpiufe uvifadi. Fepac to lunruv ewkuwfi dituwap oho ra ug gulewi raodne hocew ufluwzo kevolsa ri veozuno.",
+    "bio": "Pirar ad vauco ica ma saktuv ga fahi to cu zudgif ogerasbu. Man uvime gi jubej pukiw oda kaf zovo setiztof ahnacmig rebdom bamnu. Topbedok fozigof si zebadis ili kofje cugzi albefeb iwe agojas iw wu gubfawa."
+  },
+  "apiKey": "548e5083b22ed41aee1c1cb47f553d4a3836a38ebe51666c5aef2955168a821a",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
