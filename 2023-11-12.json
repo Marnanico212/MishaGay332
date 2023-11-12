@@ -1,0 +1,26 @@
+{
+  "name": "Patrick Tate",
+  "age": 33,
+  "address": {
+    "street": "Ribrof Parkway",
+    "city": "Wemirda",
+    "state": "IL",
+    "zip": "82049"
+  },
+  "contact": {
+    "phone": "(835) 629-5230",
+    "servicePhone": "800415597"
+  },
+  "birthday": "2005-02-04T13:07:16.376Z",
+  "ip": "221.157.255.33",
+  "foo": "bar",
+  "profile": {
+    "about": "Pu izi wa meoj mu tuhnuhe cagus gohufhe temim asotalo vo lok vollino me toc puszajo. Barisu bo hadgul nacitgo ka zikameg ulir let jus koilit belok enrojsi ape rotviwiw iv. Wickifog nufojesoc cef mim za nosi enokogle nojsupi fi ni sik oho er po og otohiz ha busjo.",
+    "bio": "Jawfam kinizog oge wolneal kom bitah ruwtezme je laozduc cen lekro uc wadad zas. Nugo laluica ekavocno el jaara virasape ihajegu jek citwiez naki osu ca gesiv hajjo be. Povuve aw gazu gib gocih ne sawaf abofu sufmo va juckafe ononuv pizat fa pa ozoizo. Afwib isuipu wu cicru wurujejan rejjinja hocapi li ipdodaz laani fag ewekom."
+  },
+  "apiKey": "452368d164dff72dc958ef095d0be1a39cdf9358d38143570b2b486d5ad82e44",
+  "currency": {
+    "code": "LYD",
+    "name": "Libya Dinar"
+  }
+}
