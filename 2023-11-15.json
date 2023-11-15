@@ -1,0 +1,26 @@
+{
+  "name": "Julian Stephens",
+  "age": 56,
+  "address": {
+    "street": "Kufreh Key",
+    "city": "Gibigos",
+    "state": "AL",
+    "zip": "07645"
+  },
+  "contact": {
+    "phone": "(257) 243-4146",
+    "servicePhone": "800184351"
+  },
+  "birthday": "1994-03-06T21:42:12.024Z",
+  "ip": "237.174.127.117",
+  "foo": "bar",
+  "profile": {
+    "about": "Jud mipudug zu imaigho vodtepkes mohvahnu suplovok pot hut po ehgag jetsewvuk va ki jecihus icefi jic gom. Junegbi kojmiw ezaziafe ab zuf vekbu ge wis uti zuzfomgad pac kunug dal hevnimuf sowawza. Epvajsu hauddu dataka iroh digpigi sun pamig raneroboh or courev heslukas kawbad fieka ga.",
+    "bio": "Ahvosimi fucimzo bankuav ejiwi navha jezup pefuf cizuztah wagcadak ozo zi sa merop elzoaw duw kotsi vo zajabo. Noiwiko zivu ja fazirena jigaro doudo enifab ritsusi obla je caskujga vut hiaverah. Uhramlic tusbeuc gin mu lataola ekiitca pij reuzeji tam tunla tih wav utohiju tiruw momure cibemez."
+  },
+  "apiKey": "7955a3da8744a431e19c3f8384ccae5fb66fad915153c4312c41a56686adca12",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}
