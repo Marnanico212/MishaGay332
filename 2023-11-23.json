@@ -1,0 +1,26 @@
+{
+  "name": "Dustin McCormick",
+  "age": 20,
+  "address": {
+    "street": "Cararo Point",
+    "city": "Sahdawu",
+    "state": "IL",
+    "zip": "51259"
+  },
+  "contact": {
+    "phone": "(349) 312-6400",
+    "servicePhone": "800352997"
+  },
+  "birthday": "1984-12-01T05:30:31.702Z",
+  "ip": "79.18.31.38",
+  "foo": "bar",
+  "profile": {
+    "about": "Eho faevmu bedva kibocolan ruugo fecu opmul tutuwwu sifpoos ah osesu icarat aweone fegarfes uz weut kase. Abuowo suk osi uci rer uz geojmed piup luj mir dipivo coido esle do hujnehkus saoj. Isoppip suceb lip zampep jag itobenzu zuamkaw evunovad puf hokazacu vu joho mehwunib lakmappi egu lelobu. Rorevrek gotbaw pav cazuwce cozfi kibnapuh sokuj najbe ku pez wowfi par zitkimu tu.",
+    "bio": "Coh dir azugi focazreb fa vi wuggonun sa zaddiuv muhub gol owa edudic gos. Suow tunirewu hub reg ucumjen acmoun pu eleori mig etbo tic hecku gurujpuc zegwi hizdar oluecipa gi. Ri nezkam mufezus tiube zu molod endajci hellu ve kedo bihmo zitieho doju diwan."
+  },
+  "apiKey": "3e7727e3be08b4a38ffc03553fdd2fd08c6a0cc5e964f9d4512deb8042c902a1",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
