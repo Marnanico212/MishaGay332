@@ -1,0 +1,26 @@
+{
+  "name": "Nicholas Padilla",
+  "age": 59,
+  "address": {
+    "street": "Cojo Pike",
+    "city": "Tebafu",
+    "state": "FL",
+    "zip": "55708"
+  },
+  "contact": {
+    "phone": "(684) 957-6285",
+    "servicePhone": "800488681"
+  },
+  "birthday": "1978-03-03T17:37:24.326Z",
+  "ip": "251.83.232.34",
+  "foo": "bar",
+  "profile": {
+    "about": "Fovji cic heinkug duizjuc dic peboniwi ef su ima bujezi kefawbat voges vej sezaw. Pemzeh cabe utisefwuc ziwe not wap ma mi ude moikiv si baputu ceh kuaw. Ej pez jug awmav ude bit taflo cud et faki cilsofi pudmud ca osa jajduvmow vu. Zofood jike weit lodme lomigtes wajkofwom gahiwsep lo uguozme mobsikir jozaihu biodfup rocrabol leddikmoj he be. Luk tawum dulepaijo umgos binru rez zi umkocu haci golife gurefbad meun jacoj jo.",
+    "bio": "Lorhuse opevi carcutne cigi navawit ma racebi opeset jokmopri kamseg jilduk bewewerod caheg notvi gawomfo. Riuw jec am ra zajpe sijjiwbo mupok aw dosec gamsiz nosmubu hite. Ha wuwawcak zemfubum peiba ag ovidowba viavpu wuorieto fegrah gu hejizgah baslunse vozoho."
+  },
+  "apiKey": "0eb4275729261167270e27e50a47cf0702df09b7f8f7830f766482f8328b6c02",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
