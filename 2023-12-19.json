@@ -1,0 +1,26 @@
+{
+  "name": "Brent Gross",
+  "age": 34,
+  "address": {
+    "street": "Fezber Ridge",
+    "city": "Regaze",
+    "state": "MD",
+    "zip": "50385"
+  },
+  "contact": {
+    "phone": "(431) 227-6564",
+    "servicePhone": "800565479"
+  },
+  "birthday": "1998-07-11T17:50:38.188Z",
+  "ip": "143.171.199.133",
+  "foo": "bar",
+  "profile": {
+    "about": "Cauma ugib tiad vucruwoj gonuvve cihiom fejlag hijra fotseun sob je owdactin li. Bewnispu re refug olzeji rok jiwjih ujsifwe nogcoj bo cuzno pezi on ideadu fedah gi vuso do. Lep ze rogesaji it bebpo ezarul met waipuid nuh nunhi jam lodivzik wakvi.",
+    "bio": "Nudulo fainobeb udgol piig looked ka fod urmuag fih vehaoh iz ir gog jaasure ikutul tena. Sa udejo unuhme jujza dalih rew sol lafata ini alo pi usu oda kogwul he ja za nacnap. Ufdeg tahetub beftuwag vug zifcaagu egbialo in jo gulgiz efaw zi fufuzgok ve. Zeuduge aktom ur mig vomohac uphibmiv viigahi osoug waazi daba ve ca ruefoguv wopal edavahib ornupluz."
+  },
+  "apiKey": "49e1fc003b720a62eba1be3885d59a0be7f08dec33c217b5df4e4047fd06830b",
+  "currency": {
+    "code": "AZN",
+    "name": "Azerbaijan New Manat"
+  }
+}
