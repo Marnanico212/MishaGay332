@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Hanson",
+  "age": 30,
+  "address": {
+    "street": "Uhavir Heights",
+    "city": "Iridiac",
+    "state": "MI",
+    "zip": "18082"
+  },
+  "contact": {
+    "phone": "(311) 728-1011",
+    "servicePhone": "800636828"
+  },
+  "birthday": "1979-03-19T20:07:54.646Z",
+  "ip": "207.221.64.6",
+  "foo": "bar",
+  "profile": {
+    "about": "Avuewsir nozcit gik foricab wov dav di nutu hudu dobwo nikkawpi hofroraf cajuw. Sofidvav esnuvrev zofadot cuk jagbec ro bevpi caeva adu wegjaru co monni jokunju. Vigkud rukisa kuk oje rufduf wegofadit lajuc bottor sajebda vilpak lavakec cusjer jumzescuc jacsu zan alkiovi nujap telpis. Popojlim uwe na tupafwi gezovun wa zaboiho wabaw tawu piof oke ibapu ni. Bidufpo bofpojjuv rodnenef kic tuw vafbok no filbuf wot aldo lojdenji ik efnugte rad ta.",
+    "bio": "Wu dew re ipet emvu farto ribneic zan sidwud sef wecel rufintac wog. Titroroh loc beha mu paw paatamuz genfoki zam ran sa hezseob methuuv ha. Ewku ze nef ihpeh miebu zad ogofewle ufahago cisojfef oriol wanecte odu nacle kucef."
+  },
+  "apiKey": "b85eae2342a96672428383da934aefac0e45b74e3e7f20710e0dddd8c698f5e6",
+  "currency": {
+    "code": "SLL",
+    "name": "Sierra Leone Leone"
+  }
+}
