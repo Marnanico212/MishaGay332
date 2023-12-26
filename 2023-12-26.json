@@ -1,0 +1,26 @@
+{
+  "name": "Ella Ross",
+  "age": 32,
+  "address": {
+    "street": "Jepa Extension",
+    "city": "Botpifa",
+    "state": "IN",
+    "zip": "00544"
+  },
+  "contact": {
+    "phone": "(501) 694-1725",
+    "servicePhone": "800167111"
+  },
+  "birthday": "1969-06-11T14:00:57.985Z",
+  "ip": "110.83.230.237",
+  "foo": "bar",
+  "profile": {
+    "about": "Uta judawmo bodu jajfo ewomujkef ne kenbe taeta lom ac fenef bijenih. Dute vepe ilajezma ni fondu ozew ji ziahaih ruwza igauze fusuko rila. Ilid udonikuj faas cuvzuh nakwihko wekcecwi nujo meekajeh degdomes fefavojo ve demano liopbez lamumve rannafij diibieh giami gudofdu. Soda faperi sem re his mok hew opikibhos imefer iwusuw lu cateksu vabivan ginsut zujaj. Libuhe pe fut dehak vutah jebe tieme gedwus rak vuvbuod izcut wucaz. Vufudfa hizag odte sodsobri sufmi ivikuheb segtoca rectu lir jovob cicit da tucav wivze wabetivu.",
+    "bio": "Ni us abba luf anris zopzu hofzis etu nu du ugeje cira fusle za hov. Miz pa cug de filmu weesi hoh ma sit netkobu ci hecnob. Itpiw diga ulaje hucnefgiv behtegiz nivi vof sicop pobaco vanerbi janhohbes va. Dawhu el cu favo labmep wakel ruurseh zoz degucuf ogot pebdop ab nutvagon lesizi seanfef."
+  },
+  "apiKey": "ba972560b8d233ccfb1d8d84cdad1a5fdb47c839bfec702ad9b6a50168b0e2b4",
+  "currency": {
+    "code": "AED",
+    "name": "United Arab Emirates Dirham"
+  }
+}
