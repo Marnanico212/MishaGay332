@@ -1,0 +1,26 @@
+{
+  "name": "Nicholas Leonard",
+  "age": 50,
+  "address": {
+    "street": "Jocdu Square",
+    "city": "Mijhejser",
+    "state": "WY",
+    "zip": "24552"
+  },
+  "contact": {
+    "phone": "(638) 804-4707",
+    "servicePhone": "800578233"
+  },
+  "birthday": "1988-05-04T02:19:54.636Z",
+  "ip": "225.57.208.181",
+  "foo": "bar",
+  "profile": {
+    "about": "Ek novsame epok pauf fok borefbi hoz za gadupro hin nagic je eco obu difnore. Kazo ciluwi wugorwe bojlaov ilo emvamu sa losoto mih zohki vuhba toam tazow to gib. Cu imo nole caig gogemja ir bugsah buobuh pu fal kuf hegsofi ci fumnup re gavi es. Nojipe ub adego satecvap kino wapejji ma zolnulzej gaj go uk topuar uc jukvosaj ewdidbaw.",
+    "bio": "Cul imfebe asnup hafefonop baale ijavev viipumu gawzewut ko isa far tupdakzu. Mukleh gehodve lud livibi li pacri tofub ze legri olosi fofbopdaj voic ti dufew rovar hior jofzi. Uneewhaz cunzi mazugte motkek fatu bo abaec luwlose dipup bajko ojkumdep jukleni."
+  },
+  "apiKey": "e57d61d67f4cd17cb58923c681496f9962c59e365855c4429d42cf3a0e4b92d2",
+  "currency": {
+    "code": "MVR",
+    "name": "Maldives (Maldive Islands) Rufiyaa"
+  }
+}
