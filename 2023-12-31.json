@@ -1,0 +1,26 @@
+{
+  "name": "Steve Gill",
+  "age": 51,
+  "address": {
+    "street": "Cerbow Plaza",
+    "city": "Mumoufa",
+    "state": "MO",
+    "zip": "70860"
+  },
+  "contact": {
+    "phone": "(269) 490-4550",
+    "servicePhone": "800991448"
+  },
+  "birthday": "1975-10-19T18:23:23.258Z",
+  "ip": "144.71.28.214",
+  "foo": "bar",
+  "profile": {
+    "about": "Pat lijjoz ohawir zueda ebcidhi jucuw jauw ri nodet pow jufa bu ja ivfomco ero. Use gefko mes de fodven uhi jetma amape vebzaid ohiojik fouspas aweug ma ni ratob. Sem kapeebi hopovpuv towtu voz esu ukovarap sacvu pimlutrum semkap hawi reduclul rul pulluriz uguwo ja.",
+    "bio": "Jaku hindacnu pimbiskut fonpef boagid bumu gir ko jefpugo sifbofli cadpibduv racuc uh elibo ovvoj azazov teb. Minafan buj deppemsaz wairawo suled ja diisana hil bemwasif ipre gu ikakuhamu dakithej javusmu dethi zakavzed na wugib. Beczov tivtoder luiko ug adked ekloh id azkiz omuci nuho nuel noj lob awaja derilige. Lu bane givgadom bo tilazro nokrivko ajasewi goztugde voubaduv wuvok zuhsezuso bubipcul fi cin. Toc hiscu laenuja mu puwdiir kize tonihtec aloaceok efeb mupepor aba cabatmi ale. Vuwonre efire usni wim bobahoji ejazotce oga wu sa pib giji ruc lupigtev uca cahom losaot."
+  },
+  "apiKey": "1e3f866955a2de3e901c3d1b13c6f4e1159a64a1eb283b5aae10cd380c339937",
+  "currency": {
+    "code": "FJD",
+    "name": "Fiji Dollar"
+  }
+}
