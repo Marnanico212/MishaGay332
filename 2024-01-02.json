@@ -1,0 +1,26 @@
+{
+  "name": "Edith Todd",
+  "age": 38,
+  "address": {
+    "street": "Piep Boulevard",
+    "city": "Agoguek",
+    "state": "MT",
+    "zip": "50013"
+  },
+  "contact": {
+    "phone": "(444) 963-1057",
+    "servicePhone": "800986363"
+  },
+  "birthday": "1960-10-04T06:42:09.258Z",
+  "ip": "190.132.193.197",
+  "foo": "bar",
+  "profile": {
+    "about": "Roge cejpeb hebnu henpim henbisihu vohiznif ewul zasac le javiul cafal zeazo. Nap lu pukgak bo raj digteli ricit mawhotwe wonic se durehu jihi ov seeco tezgel seweknuj vu juidu. Cadih utihha cu mep relri lukpum edru raroh beb hekiwrob vobjo weuckat. Jiifo kum riifo fe riwajov ehhin caduc elarozipo vorigfov fawcum varoz utu sifnegbe wufe. Nazuwpug kan weh colmewjo ka me midi tasansum hihed no faco lizfobil ha tafmok vojibgin canafbuj ubpel doc. Movoraf apbotuju ot zimvi votveki kijem acafoli miitkam ozaahekib pi ba iv sog gof dot nafcova mopo roh. Ligi lesahmal zocwa sale far zuw irpo mip ebeke elecos lavaj tuv zurga ni kabo jet pavi do.",
+    "bio": "Toji cup sar hetit zicjamiv had hiakpu jemuto mabfobag wo rocikif nas rinole en viegfa kehor pe tin. Lit ros limo mu erhiran olwe cipu ju jahnil bi ih raha. Utita uzeku ra dafiz kidurla sijuziw vap iganak noh himudak du joho navivle av."
+  },
+  "apiKey": "06b6522d5230b06cb1b6f19a638e6bbac6c063440dd1ca57afd9af812cdf862e",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
