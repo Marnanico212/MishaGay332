@@ -1,0 +1,26 @@
+{
+  "name": "Hilda Sherman",
+  "age": 34,
+  "address": {
+    "street": "Bukfe Pass",
+    "city": "Mukteban",
+    "state": "MT",
+    "zip": "35491"
+  },
+  "contact": {
+    "phone": "(773) 617-9085",
+    "servicePhone": "800966163"
+  },
+  "birthday": "1986-03-05T06:08:19.668Z",
+  "ip": "92.209.188.237",
+  "foo": "bar",
+  "profile": {
+    "about": "Er pazrim tu hije vauno zecazag vo avetu piniler be viaf wo huora ugomed vifot mikusep ko. Dewi di pekid wa jidtom luhunaca escilosa zofik une cugju wuh pabovuc ca uce zubfazfa hubiiz. Fuuknos et usju sabwiri mow pehhupte ze nif dagu vujawdal wakniuha ej lafahsij dof rer efku.",
+    "bio": "Mep dumdewaf abuekbo jop pakzivut ewu sac fajorta suaffuw kisaha muctoda appuhceg ho vibinve jaw ic dal. Ovubi gi to cew dases pibama vudab emauga di ebeja muuze di pume feze. Oror hiwle su kefe gepdutob udehagtos anewa ser wuh ehigusbin ci kuhaw."
+  },
+  "apiKey": "2464efc1b6aee4db3093d4ce90fcbf776ab02b4e9f14199df7af6a09763a62be",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
