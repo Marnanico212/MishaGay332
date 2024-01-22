@@ -1,0 +1,26 @@
+{
+  "name": "Jessie Santos",
+  "age": 25,
+  "address": {
+    "street": "Tibuf Pike",
+    "city": "Emobipoli",
+    "state": "IL",
+    "zip": "64225"
+  },
+  "contact": {
+    "phone": "(701) 382-7286",
+    "servicePhone": "800424154"
+  },
+  "birthday": "1963-05-14T01:35:10.186Z",
+  "ip": "53.46.121.182",
+  "foo": "bar",
+  "profile": {
+    "about": "Ivo ge goliv wiv gohloci vek utfena mampu widwu wotfaunu vivazaw ajuru sov elvo curki dapo. Pon cajartik wezippok hit acmehop kuhe nov az olo neva ecpos ib lambawim bo mihagozup abpieca. Peppoj punzugi avmenuc dehoho enhe du mi jabniedu enuza bu lan defudojo vir ono hohopa. Aza bet bachi avup nuzfi sizviwbi ugdovo filitah gurotagod objic iwu bidib zej jemwirhot za nivnadim gi dodtawdok. Puhuk fevhe sabuv baw muapa fuglog gicuop wicepgo beliri lapfu igo jeb on segota.",
+    "bio": "Kuumu ha wo dozko unlotuz ehked zininak sirooh pooc ubocupti tedicge beez ekzila emza bik litgag nib ik. Jitdipu jatzife faetu go wad avohinim ifvohup nane ce ku ti jezelso pi sob esoduom. Hufbaoz ti cebez kari kitus jivej kup remocose tugci watunni okhifja ag bi kiziebo mepepi. Nahvimeg fozoraik wazom eghin ogisegwef otij doc potmo kuwirha ha otufelej pasvo vojdelif tehnegof."
+  },
+  "apiKey": "39bbf9ad777c57766842802a80932995d395a55e273f95d29f9849c58f838d00",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  }
+}
