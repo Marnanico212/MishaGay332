@@ -1,0 +1,26 @@
+{
+  "name": "John Lawson",
+  "age": 57,
+  "address": {
+    "street": "Pitmi Trail",
+    "city": "Nagfuuce",
+    "state": "NE",
+    "zip": "84263"
+  },
+  "contact": {
+    "phone": "(665) 999-8563",
+    "servicePhone": "800821394"
+  },
+  "birthday": "1963-08-08T22:16:59.385Z",
+  "ip": "144.103.6.74",
+  "foo": "bar",
+  "profile": {
+    "about": "Ribeda sujwap nefvi geh op gaaruga leide enedugo wot isibe biboc dabsuzed ihhi rorohfub caswuc kabgufeso ravnatsoz puwis. Sa kipedde nihca gostesam lid tiwermoz huel pedekvuk cuaram holhopo po ifujowu mocvesen ubaeh. Ikbo ire gaf ka rizawep fundoj bewliw voosa collo mo gelras za wooro enfuj sah wuhuhmoc ihobogi de.",
+    "bio": "Dajo gin do wuw gid wavpinog bod sesru hup emdajut sibvoor pewjudgob lusleeki supibu haglo. Ducicsi uhko nesedi zeotojid iko hijre joz eja gogat bomonuj inpo hulaiwo ziwu to bin pomwe riz. Udece te ki enolu fa pokazur fej titowo imizuli lujcaj muc permor sezfajaf alihu."
+  },
+  "apiKey": "8d63a2eb7493f3c1c9b7c0fc5935a2498cd5adc37ea9613d4920e1cce4c4d76d",
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamas Dollar"
+  }
+}
