@@ -1,0 +1,26 @@
+{
+  "name": "Max Guerrero",
+  "age": 55,
+  "address": {
+    "street": "Luec Plaza",
+    "city": "Itusolrap",
+    "state": "AK",
+    "zip": "69761"
+  },
+  "contact": {
+    "phone": "(330) 444-9904",
+    "servicePhone": "800813952"
+  },
+  "birthday": "1959-03-01T04:01:17.969Z",
+  "ip": "252.205.85.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Enu rokurupa renira eszupciv rozno egvobor oj jefi sikip doaf faehunak deti mege hohun. Dovelol iwavoros on tivponfah egbacuz tamter vib kucbe hine ne juruwu sumetwil ne de. Lajted evoma go civeh ce salom bo gevaoju pahavenuf ru belfitno jeakvi daame jumvu feduzet pogajwuj. Gamtew binof vazlo wiozo uhauba hoawe jielu zonpeziv baf rejumur azitewra gugmaz obiarfo ufaan safimeti dif lira sifo. Ofebi patniw molcu hodumunu ko fektedfoc tizeme kejen akduf fot jawo vusak urovuljis vucon facanzer dimu. Wo febekfa genomik mizdufo irfi wealuero ewvecwaw af ava mutcih uckur epi wehiheke avno ul siwtiweh.",
+    "bio": "Bizuwem hi azozagi ruthu rafet luiheje apo lif zauri jakeal vap kuvlulos agtodoh jim dal jejuw. Luloblih abivinod ere sic uplaf val vazes hanoka biw feed molva be upuib rifinige dug rarnica. Foweece kopsuf dihano keez upuezo rifavan gihhem ja zinrowjo tive vak si zajoz halisuvul pug rof."
+  },
+  "apiKey": "ff27abd318ad4e4c0d9099d8c5994f0d6608bc882934e8f1b14cc891880be503",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
