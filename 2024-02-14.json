@@ -1,0 +1,26 @@
+{
+  "name": "Brett Moody",
+  "age": 57,
+  "address": {
+    "street": "Errin Plaza",
+    "city": "Relodis",
+    "state": "ME",
+    "zip": "72133"
+  },
+  "contact": {
+    "phone": "(338) 270-2500",
+    "servicePhone": "800352537"
+  },
+  "birthday": "1972-12-02T13:53:53.071Z",
+  "ip": "166.231.137.50",
+  "foo": "bar",
+  "profile": {
+    "about": "Rodep em didvolda ej ecenalol lazreul alu dookmi ovtef paz ojuta vil aja si nocom fibru poc. Pado ot guho jes hebuzo bakotid emhevis padpomlij jos wene asubiwez lavan cebet ipocokavu. Jowwu ze degab jez ifatuonu iteubuw ug livhusa gig co wuczib owu ucaofe naokdo.",
+    "bio": "Web suseg otaovagu gure sufrori susge liwta zirduhale paloavi jartuf to zufgib kal sakejzev vuv za. Fakbuc vev hem zodwuzeb godpu diz kutkifo kewbade deve coh kemfeh vohemet sume. Pav bo uf nutvuzwi ronagu ku fopilec jetcigiw donre bankun kokpitge vo er ki. Inju ecaduh ciwun nurgav inaomukuk sozwe mavkugup lagnisej wap umibeg weuhov fuemnak. Uvdeg mahhuw ogpul suj sinmogfo degallod lo homaf okeulo re jezmofpe ehofalu gurengom jitasef guedgeh pafas ji duiwu. Ipu lohak et dit newpulun mivce ra infagmo vujiv ohtabpis jagi anu da inu sebice."
+  },
+  "apiKey": "5c51048f9099889c514263abe242a3c238d90b556ed9ec227f32704ab7173c34",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
