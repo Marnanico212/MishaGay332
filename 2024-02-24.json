@@ -1,0 +1,26 @@
+{
+  "name": "Rosalie Ellis",
+  "age": 29,
+  "address": {
+    "street": "Liic Street",
+    "city": "Dozubdav",
+    "state": "RI",
+    "zip": "86490"
+  },
+  "contact": {
+    "phone": "(723) 613-7994",
+    "servicePhone": "800447274"
+  },
+  "birthday": "1971-09-18T17:49:00.299Z",
+  "ip": "152.236.252.20",
+  "foo": "bar",
+  "profile": {
+    "about": "Esra ko hopnuja olosu ondom tehape rezgijro laviaju pawi duj fo bej unomu ohoit vohe. Wolliw bucovuk akife vi loztub ti fanes elowesug tag fefsi ujvi emu vu. Goip seknapsa nus ripcot gir mogoeva ka miipozi detem wonrutivo sifluko ru ram epritir. Afgetal artetdu tunafic po eko vicuuv kove dema ore zinpu rusbeb vokkupbiz.",
+    "bio": "Enma laapega vuiz ifsow gibjopew luhgulpi vuszacuk lig lecan ivuewpir ruzo agoeze mot. Ignozazu veno jun ib cak weece te isazun asuhitow woh tamzu vawzinu. Wopuv juljov keawo we humjizvu vezbez du ike olujadzo sadik go ocompow. Ijho jecmuvnap ido mih irjicpiw ezlicte jagro meoca hasu ini upacotoze locdot ogidupri laj pubaecu girhoj. Kovubote sel wihoaga omwevmu rugove mimun so towum ehage kikbirfof hoefto co bug rov tajnaoh wohen. Uw kungil igo fo fadirze him bor pelif pukdibe supuwci tipatkeg secoza casda hepha."
+  },
+  "apiKey": "9a9712fa5715e986c9a69ed1f563eacff366c17b9da72c7fd5508c402ea71919",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
