@@ -1,0 +1,26 @@
+{
+  "name": "Inez Abbott",
+  "age": 25,
+  "address": {
+    "street": "Demde Drive",
+    "city": "Mabrejjef",
+    "state": "CT",
+    "zip": "99294"
+  },
+  "contact": {
+    "phone": "(680) 452-5438",
+    "servicePhone": "800668131"
+  },
+  "birthday": "1966-10-01T18:32:56.730Z",
+  "ip": "74.106.211.195",
+  "foo": "bar",
+  "profile": {
+    "about": "Oh kumsumjo zad gifuninu fofcig nid jivargi tum ufmec asaaza vujabih ac gewovub. Ki nuruh si pokcoleri di les hesaci neva wun zo ti guve modol ipgi ritdawetu. Obefi ror lo horbaseve jezbiko cavhas pehtot loji hunupwis gogbe juvura cobuzjow epzele.",
+    "bio": "Ace wolojojo fuobivib rizocow sohdim zuvruf howoh nivehu ifu arkual kardueho refoka sal domef kovpise. Lajad tefoav fuv mocil ti bishekit revamove umu sutib goderigi tiwu ofoserdag jetwi iluedtij tehlebip mobnu idozidif. Kerko zotzabmus pelivo difniij zodaw awciwwo zel rad ho anlolol guvcocti jug wuumu mecvija upogewhik funoza ta. Inasod bosnel sus wumbesif nawabe kuperas imepoup aheucefo bohbofe usule lufceas vubuftap mi wat."
+  },
+  "apiKey": "a9ab587bbae572b75c8a12caa7b9f96596787b48c3c1a3201657687b62554c30",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
