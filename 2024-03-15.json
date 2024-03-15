@@ -1,0 +1,26 @@
+{
+  "name": "Erik Obrien",
+  "age": 20,
+  "address": {
+    "street": "Seteb Place",
+    "city": "Velobew",
+    "state": "NJ",
+    "zip": "42152"
+  },
+  "contact": {
+    "phone": "(686) 951-7729",
+    "servicePhone": "800138212"
+  },
+  "birthday": "2004-07-13T12:01:15.379Z",
+  "ip": "100.131.219.110",
+  "foo": "bar",
+  "profile": {
+    "about": "Piostu nupebkav la tojba ivka ivoje ekoec zu to vi ac emli ruvba. Tuv ucufujak voz ricibfum fog okadki olzan pa ewhahji lursez ful wuk muruk tapuhi tecogkoz lipje do cer. Ak miivda padka kejeubo pe va rimo pa sadbohbo vak ba soig ho ze udfe buzej zigo hazem. Hu damud ke mo ov mu gihsuv tohkawhup alisud fumrocse ki riwsazhi ris cekadral nebepo go. Ced siwu vohnoh ojecibod ju sib gejur feja uhid zo butwaomi lelkatrad wimewkaf pi elnibgin womletpov.",
+    "bio": "Pefvo gomfuud jugraj nebic rit luzabwe jajro tuajdav rad hopo zih icumavzim wim ulamugi naphiza wu maecawof neroov. Danul cuked ore jiwguh sajutwoc popjiwo wetatif bud so vabnuk nobavmi mod da ladwep. To ikap ziasisa honuk dulduwbir wefit je defivi wo cahzebu wodolzag cas nejbojez poej keru no vahvugo odi. Cijopu donevfa gor vapter zetdigac nir muvito rer ma nif wug lup beis tol worefu lafhize lezvud curmon."
+  },
+  "apiKey": "e157885f7e248bee31e82ffaf8325499868b14d17a1cf9cc3f003eaf1720140f",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
