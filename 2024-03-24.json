@@ -1,0 +1,26 @@
+{
+  "name": "Helen Young",
+  "age": 51,
+  "address": {
+    "street": "Udwa Path",
+    "city": "Meweril",
+    "state": "UT",
+    "zip": "93536"
+  },
+  "contact": {
+    "phone": "(864) 242-7907",
+    "servicePhone": "800559323"
+  },
+  "birthday": "2001-10-05T09:35:43.791Z",
+  "ip": "235.188.155.237",
+  "foo": "bar",
+  "profile": {
+    "about": "Aniku kek jejzi wavibmup nihos ot cozvi ni ivha nejaw foz wu ce nol foumoz lefsefa gabpiz vuljib. Num ce cejjab or debniru itura suc cez sodo sifirho vop rogumih jo fotrapa nitomeh mafazej. Ohdon nat ac hepud zew fasog zaandic livimbup iti gadiku ludhedvu luubu borag. Alu kujo no vilucon ef zogsu huelihoj pef wiosu jo saov bod buamake ercako pinaf hevke juhemod ijpev. Daubur usle lotbohbup vi cah ri co amroz vijo wumpevab ne ole gudfob. Gow poceca wiam nosul ba wunjegrag holgak ra ike se gudser napu ke te ejva ze ebokaod oz. Nauf ed dahpesiba hozutiv ojwu bij ub hucime wenaujo reab fiphisuz dailpiz fa ra ga zikzeghes jomter.",
+    "bio": "Dulhot ralotaz mud gan capoc rupe te sob ewagipzah jozampig wiribzo fogin gohebfij jowcuc uf mupodhav zeagoca. Ukuikgub wa nani ewwarvo puima fuwave leseol edu ok addo kico pozhu dic. Cir bim befziccu sigitreg ha ferar mehono hovevgo cafcir bikehlo muptaz megid vucadgad heeg amo kudva nu."
+  },
+  "apiKey": "a5ff43d80a5bf7d62662b3f03ea466c51c2177fb4389522b800b4e6acbc991ff",
+  "currency": {
+    "code": "GMD",
+    "name": "Gambia Dalasi"
+  }
+}
