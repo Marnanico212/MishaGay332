@@ -1,0 +1,26 @@
+{
+  "name": "Phillip Singleton",
+  "age": 53,
+  "address": {
+    "street": "Seko Way",
+    "city": "Hokacun",
+    "state": "SD",
+    "zip": "86451"
+  },
+  "contact": {
+    "phone": "(614) 755-8406",
+    "servicePhone": "800624972"
+  },
+  "birthday": "1962-11-09T09:19:17.678Z",
+  "ip": "165.204.86.32",
+  "foo": "bar",
+  "profile": {
+    "about": "Ohiteeci kitneoh ubu suwelez zumazeb ciztigza ewi wivot ewhi ozi wuicne olsumfu ir huvnolcav rareceleb tedom hewicoru. Dedpano goca cazo tune da siole golgifli aji an daidzic zufis peum guvuvdi. Go cukuba onobokfa juj guvutco rizuzvu wa nujpow fopijmic losnu om hamso.",
+    "bio": "Fuva uvocakmu gok ferloag ojwes tura re lane fi piw zicrafko uhjut. Nas culegu japahsaz kevew diho foc ibhiva sab ife hefo newo sirji. Cafo vuijauki vokigiba no kaditja vebo fidpo seze dun dovo napusi ipe jubluc ve jofkop. Pegareni ra filridi mejif po liwetu ic bef bivop hog fakowhad guub."
+  },
+  "apiKey": "2d63d528c1bd24c2b3dc093cd8609a60a7af44def9a3ebdb4e0b400061c7c1d8",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
