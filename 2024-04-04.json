@@ -1,0 +1,26 @@
+{
+  "name": "Lillie Reese",
+  "age": 38,
+  "address": {
+    "street": "Rijar Trail",
+    "city": "Gelolni",
+    "state": "CO",
+    "zip": "78611"
+  },
+  "contact": {
+    "phone": "(688) 212-7768",
+    "servicePhone": "800239827"
+  },
+  "birthday": "1989-09-28T11:05:55.732Z",
+  "ip": "77.59.131.212",
+  "foo": "bar",
+  "profile": {
+    "about": "Ponu ceoc kodlavic bi telju fevip econu nigwop loziv zecpakoj zacibnij etu jouro diut bumad jufnaha. Navmud ugokor wimfed rol medud fipjihe su rertazta fel suzo hosi rigtid sa joleri vucakidem roanij. Tig evuko ilwud ceguzpu ca rawajki tarra salucik tigajetuk vodu eca huwuga. Hovriku ir ow cokuv fiti mesmo ekugfi ibsu nive marne ga soef isoob nimpi gok rilpebo.",
+    "bio": "Fucreduc lub odo duriz negno rarba negva melinle bag gufrolfo ujla zotpaz kurde kujcug fukisaw votkuifu owwur. Ku ozmepak dihoaf taf pedcit harerobu darosci viv le ukevetwo locra eju fo. Mujeg ug uhovo uh jaif ho wufic nak meslaba ripjes cekocco juvar ze ehe fubguhfa hokbuzif mago dafow."
+  },
+  "apiKey": "bf8dcf39e97aa2c842fd325f86a266e033a4d65f037b5f6bef759e53595c636f",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
